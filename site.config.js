@@ -1,19 +1,19 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '791d98f556cdb4dbab6d813325a941842',
+  rootNotionPageId: '91d98f556cdb4dbab6d813325a941842',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '蝦米',
-  domain: 'https://www.notion.so/TransitiveBullsh-it-91d98f556cdb4dbab6d813325a941842',
+  name: '蝦米\'s Blog',
+  domain: 'https://www.notion.so/s-Blog-91d98f556cdb4dbab6d813325a941842',
   author: 'Sammy',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Blog about lifehack, tech and game design.',
+  socialImageTitle: 'ShangHungTsai',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
