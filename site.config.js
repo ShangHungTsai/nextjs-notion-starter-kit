@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '蝦米\'s Blog',
-  domain: 'https://www.notion.so/s-Blog-91d98f556cdb4dbab6d813325a941842',
+  domain: 'https://lifespeedup.notion.site/s-Blog-91d98f556cdb4dbab6d813325a941842',
   author: 'Sammy',
 
   // open graph metadata (optional)
